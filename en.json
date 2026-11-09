@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "title": "The Curiosity Experiment",
+    "description": "Explore the psychology, neuroscience, and history of human curiosity."
+  },
+  "brand": "THE CURIOSITY EXPERIMENT",
+  "nav": {
+    "question": "The question",
+    "science": "The science",
+    "history": "The history",
+    "experiment": "Experiment",
+    "qr": "QR poster"
+  },
+  "language": {
+    "label": "Language",
+    "en": "ENGLISH",
+    "ar": "العربية",
+    "ckb": "کوردی"
+  },
+  "intro": {
+    "eyebrow": "AN INVITATION TO WONDER",
+    "title": "YOU WEREN’T SUPPOSED TO BE HERE.",
+    "description": "But now that you’re here, there’s one question worth asking.",
+    "button": "DISCOVER THE QUESTION",
+    "note": "A QUESTION HIDING IN PLAIN SIGHT"
+  },
+  "opening": {
+    "number": "01 / THE BEGINNING",
+    "title": "Every discovery begins with a gap.",
+    "body": "A question appears when what we know meets what we have yet to understand. Curiosity is the impulse that moves us toward that missing piece.",
+    "prompt": "What happens when you follow a question?"
+  },
+  "science": {
+    "number": "02 / THE SCIENCE",
+    "title": "The mind leans toward the unknown.",
+    "body": "Curiosity can arise when we notice a gap between what we know and what we want to know. That gap can direct attention, motivate exploration, and make new information memorable.",
+    "label": "A useful distinction",
+    "detail": "Dopamine participates in motivation and learning, but curiosity is not explained by one chemical or one brain region."
+  },
+  "history": {
+    "number": "03 / A BRIEF HISTORY",
+    "title": "Questions across time",
+    "body": "Human curiosity has taken many forms: philosophical reflection, systematic observation, experiment, and modern scientific investigation.",
+    "timeline": [
+      {
+        "date": "Ancient world",
+        "title": "Why is there a natural order?",
+        "text": "Philosophers in Greece, India, China, and elsewhere developed different ways to explain nature through reason and observation."
+      },
+      {
+        "date": "Scientific Revolution",
+        "title": "Can nature be measured?",
+        "text": "Mathematical description and repeatable observation transformed the study of motion, astronomy, and physical processes."
+      },
+      {
+        "date": "1859",
+        "title": "How does life change over generations?",
+        "text": "Charles Darwin presented a theory of evolution by natural selection, supported by extensive observations."
+      },
+      {
+        "date": "Today",
+        "title": "How does the brain learn?",
+        "text": "Researchers combine psychology, neuroscience, computation, and behavioral experiments to study learning and curiosity."
+      }
+    ]
+  },
+  "experiment": {
+    "number": "04 / YOUR EXPERIMENT",
+    "title": "Choose what you want to uncover.",
+    "body": "A small question can open a much larger investigation.",
+    "question": "Which mystery would you investigate first?",
+    "choices": [
+      "Why do we dream?",
+      "How did the universe begin?",
+      "How do memories form?"
+    ],
+    "reveal": "Curiosity turns uncertainty into a reason to explore. The next step is to ask a more precise question.",
+    "again": "Try another question",
+    "selected": "Your question is a starting point—not the end."
+  },
+  "facts": {
+    "number": "05 / FIELD NOTES",
+    "title": "A few things worth wondering about",
+    "items": [
+      {
+        "q": "Does curiosity help memory?",
+        "a": "Research suggests that a curious state can improve memory for information encountered during that state, though effects depend on context and study design."
+      },
+      {
+        "q": "Is curiosity always pleasant?",
+        "a": "No. Curiosity can involve uncertainty or tension, especially when an important answer feels just out of reach."
+      },
+      {
+        "q": "Can curiosity be cultivated?",
+        "a": "Yes. Asking open questions, exploring unfamiliar ideas, and making room for uncertainty can encourage curious habits."
+      }
+    ]
+  },
+  "qr": {
+    "title": "Make the question scannable",
+    "body": "Set a public website URL after deployment to create a printable QR code.",
+    "missing": "Production URL is not configured. Set VITE_SITE_URL before generating a print-ready code.",
+    "downloadSvg": "Download SVG",
+    "downloadPng": "Download PNG",
+    "configured": "QR destination configured"
+  },
+  "final": {
+    "title": "EVERY DISCOVERY BEGINS WITH A QUESTION.",
+    "body": "Stay curious. Question everything. Discover more.",
+    "restart": "START AGAIN",
+    "share": "SHARE THE EXPERIMENT",
+    "copied": "Link copied"
+  },
+  "footer": "AN OPEN-ENDED EXPERIMENT"
+}
